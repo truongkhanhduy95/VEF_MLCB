@@ -11,7 +11,7 @@
 - Lecture 8.1: [Multiclass classification and Kernel Methods](https://www.youtube.com/watch?v=x1hJMOqs3rc&feature=youtu.be)
 - Lecture 8.2: [Multiclass classification and Kernel Methods (Cont.)](https://www.youtube.com/watch?v=gKdwaR1GP8w&feature=youtu.be)
 - Lecture 9.1: [Feature Engineering](https://www.youtube.com/watch?v=_biUvLgHwkc&feature=youtu.be)
-- Lecture 9.2: [QA on Feature Engineering](https://www.youtube.com/watch?v=RcFqx1vymPc&feature=youtu.be)
+- Lecture 9.2: [Q&A on Feature Engineering](https://www.youtube.com/watch?v=RcFqx1vymPc&feature=youtu.be)
 - Lecture 10: [Visualization](https://www.youtube.com/watch?v=Pm4UMgw5dA0&feature=youtu.be)
 - Lecture 11.1: [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=oQA6h6QYmpw&feature=youtu.be)
 - Lecture 11.2: [Neural networks and Deep learning (Cont.)](https://www.youtube.com/watch?v=yMpaa-wiXXM&feature=youtu.be)
