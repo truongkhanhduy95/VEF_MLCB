@@ -25,7 +25,7 @@
 
 ## Homeworks
 - [Homework 1](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_1.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_1.pdf)
-- [Homework 2][Test](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_2.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_2.pdf)
+- [Homework 2](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_2.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_2.pdf)
 - [Homework 3](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_3.pdf) | [Solution](
 https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_3.pdf)
 
