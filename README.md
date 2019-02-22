@@ -24,13 +24,13 @@
 - [Project Day](https://www.youtube.com/watch?v=xjM7-kmL5NE&feature=youtu.be)
 
 ## Homeworks
-- Homework 1: [Test](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_1.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_1.pdf)
-- Homework 2: [Test](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_2.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_2.pdf)
-- Homework 3: [Test](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_3.pdf) | [Solution](
+- [Homework 1](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_1.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_1.pdf)
+- [Homework 2][Test](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_2.pdf) | [Solution](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_2.pdf)
+- [Homework 3](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/hw_3.pdf) | [Solution](
 https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_3.pdf)
 
 ## Exam
-- Exam: [Test](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/midterm.pdf) | [Data](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/uber_usage.csv)
+- [Midterm Exam](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/midterm.pdf) | [Data](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/uber_usage.csv)
 
 ## Notebook examples
 
