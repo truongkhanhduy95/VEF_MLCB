@@ -30,7 +30,7 @@
 https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/solutions_3.pdf)
 
 ## Exam
-- [Midterm Exam](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/midterm.pdf) | [Data](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/uber_usage.csv) | Solution
+- [Midterm Exam](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/midterm.pdf) | [Data](https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/uber_usage.csv) |[Solution] (https://github.com/truongkhanhduy95/VEF_MLCB/blob/master/resources/midterm_solutions.pdf)
 
 ## Notebook examples
 
